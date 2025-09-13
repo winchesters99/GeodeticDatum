@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+   <style type="text/css">
+       html { height: 100% }
+       body { height: 100%; margin: 0; padding: 0 }
+       #map-canvas { height: 100% }
+   </style>
+   <script type="text/javascript"
+           src="https://maps.googleapis.com/maps/api/js?q=15.43,18.54&key=AIzaSyBIauhC1253gRC_PfC8sff3wHqGIw6ECJA&sensor=false"></script>
+  <script type="text/javascript">
+  var map;
+  function initialize() {
+  var myLatlng = new google.maps.LatLng(28.7041,77.1025);
+
+  var myOptions = {
+     zoom: 8,
+     center: myLatlng,
+     mapTypeId: google.maps.MapTypeId.ROADMAP
+     }
+  map = new google.maps.Map(document.getElementById("map_canvas"), myOptions); 
+
+  var marker = new google.maps.Marker({
+  draggable: true,
+  position: myLatlng, 
+   draggable: true,
+  map: map,
+  title: "Drag Me"
+  });
+
+    google.maps.event.addListener(marker, 'dragend', function (event) {
+    document.getElementById("latbox").value = this.getPosition().lat();
+    document.getElementById("lngbox").value = this.getPosition().lng();
+});
+
+}
+
+</script>
+
+
+<script type="text/javascript">
+          function sendFormData() {
+            var firstNameValue = myForm.elements['lat'].value;
+            var lastNameValue = myForm.elements['lng'].value;
+            // Invoke the 'save' method of the 'Account' Java object.
+            map.save(firstNameValue, lastNameValue);
+          }
+</script>
+    
+    
+</head>
+
+<body onload="initialize()">
+
+  <div id="map_canvas" style="width:100%; height:80%"></div>
+
+  
+  
+  <form name="myForm">
+    Longitude: <input type="text" id="latbox" name="lat"/>
+    <br/>
+    Latitude: <input type="text" id="lngbox" name="lng"/>
+    <br/>
+    <input type="button" value="Send" onclick="sendFormData();"/>
+</form>
+
+
+</body>
+
+</html>
