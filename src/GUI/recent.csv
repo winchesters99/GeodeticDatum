@@ -1,0 +1,18 @@
+WGS84,Everest_1956 IND-I -  Indian  Everest (India 1956) : India And Nepal,12,12,12,11.999963,11.999894,354.481314
+WGS84,Everest_Pakistan IND-P  Everest(Pakistan) :Pakistan,12,12,12,11.999966,11.999903,373.981391
+Everest_1956 IND-I -  Indian  Everest (India 1956) : India And Nepal,WGS84,45,78,50,44.999971,77.99997,40.068882
+Everest_1956 IND-I -  Indian  Everest (India 1956) : India And Nepal,WGS84,12,12,12,12.000037,12.000106,-330.483144
+Everest_1956 IND-I -  Indian  Everest (India 1956) : India And Nepal,WGS84,2,2,2,2.000041,2.000114,-504.253809
+Everest_1830  INH-A  Everest(India1975) :Thailand,WGS84,3,3,3,3.000003,3.0,-857.153231
+Everest_1956 IND-I -  Indian  Everest (India 1956) : India And Nepal,WGS84,12,38,2,12.000029,38.000064,-101.801952
+Everest_1956 IND-I -  Indian  Everest (India 1956) : India And Nepal,WGS84,12,38,No Height,12.000029,38.000064,-103.801952
+Everest_1956 IND-I -  Indian  Everest (India 1956) : India And Nepal,WGS84,28.684825749363384,75.69624999999996,0.0,28.684826,75.696231,19.399672
+WGS84,Everest_1830 IND-B - Indian  Everest (India 1830) : Bangladesh,38.8225909,-100.898437,No Height,38.822456,-100.898465,1226.294885
+Everest_1830  INF-A  Everest(India1954) :Thailand,WGS84,20,20,20,20.000019,20.0,-819.22519
+Everest_1830  INF-A  Everest(India1954) :Thailand,WGS84,-20,20,20,-20.000019,20.0,-819.22519
+Everest_1956 IND-I -  Indian  Everest (India 1956) : India And Nepal,WGS84,12,-65,23,12.000069,-64.999907,-1281.928239
+Everest_1956 IND-I -  Indian  Everest (India 1956) : India And Nepal,WGS84,28.636624602652045,77.24532226562496,0.0,28.636625,77.2453,16.677241
+NAD27  NAS-A - North American 1927 (Clarke 1866) : Eastern United States,WGS84,38.76609531245266,-111.86234375000004,0.0,38.766059,-111.862344,-23.646495
+NAD27  NAS-A - North American 1927 (Clarke 1866) : Eastern United States,NAD83 NAR-C -North American 1983 (GRS 80) :Conus,38.76609531245266,-111.86234375000004,0.0,38.766059,-111.862344,-23.646453
+NAD27  NAS-A - North American 1927 (Clarke 1866) : Eastern United States,NAD83 NAR-C -North American 1983 (GRS 80) :Conus,10,10,10,9.999987,10.0,72.25238
+NAD27  NAS-A - North American 1927 (Clarke 1866) : Eastern United States,WGS84,25,75,00,24.999971,75.0,27.04195
