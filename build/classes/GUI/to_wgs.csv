@@ -1,0 +1,28 @@
+Identifier,dX,dY,dZ,eX,eY,eZ,Local Geodatic System,Ellipsoid,location
+IND-I,295,736,257,12,10,15,Indian,Everest (India 1956),India And Nepal
+IND-B,282,726,254,10,8,15,Indian,Everest (India 1830),Bangladesh
+IND-P,283,682,231,Everest,Everest(Pakistan),Pakistan
+TIL,-679,669,-48,Everest 1948,Everest(Timbalai1948),Brunei and East Malaysia
+INF-A,217,823,299,Everest 1830,Everest(India1954),Thailand
+INH-A,210,814,289,Everest 1830,Everest(India1975),Thailand
+ING-B,182,915,344,EVEREST 1830,Everest(India1960),ConSon Island
+ING-A,198,881,317,EVEREST 1830,Everest(India1960),Vietnam
+KAN,-97,787,86,EVEREST 1830,Everest(Kandawala1830),Sri Lanka
+NAS-A,-9,161,179,5,5,8,North American 1927,Clarke 1866,Eastern United States
+NAS-B,-8,159,175,5,3,3,North American 1927,Clarke 1866,Western United States
+NAS-C,-8,160,176,5,5,6,North American 1927,Clarke 1866,Mean Value(Conus)
+NAS-D,-5,135,172,5,9,5,North American 1927,Clarke 1866,Alaska
+NAS-E,-10,158,187,15,11,6,North American 1927,Clarke 1866,Canada
+NAS-F,-7,162,188,8,8,6,North American 1927,Clarke 1866,Alberta and British Columbia
+NAS-G,-22,160,190,6,6,3,North American 1927,Clarke 1866,East Canada
+NAS-N,0,125,194,8,3,5,North American 1927,Clarke 1866,Central America
+NAS-P,-3,142,183,3,9,12,North American 1927,Clarke 1866,Caribbean
+NAS-T,-9,152,178,25,25,25,North American 1927,Clarke 1866,Cuba
+NAS-L,-12,130,190,8,6,6,North American 1927,Clarke 1866,Mexico
+NAR-A,0,0,0,2,2,2,North American 1983,GRS 80,Alaska
+NAR-B,0,0,0,2,2,2,North American 1983,GRS 80,Canada
+NAR-C,0,0,0,2,2,2,North American 1983,GRS 80 ,Conus
+NAR-D,0,0,0,2,2,2,North American 1983,GRS 80 ,Mexico And Central America
+NAR-E,-2,0,4,5,2,5,North American 1983,GRS 80 ,Aleutian Island
+NAR-H,1,1,-1,2,2,2,North American 1983,GRS 80 ,Hawaii
+ZEE-K,-134,-48,149,0,0,0,Australia
